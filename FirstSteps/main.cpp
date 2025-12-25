@@ -12,7 +12,9 @@ int main() {
             << std::endl; // This is a few seconds slower or should I use ms?
                           // The International Sistem of Units says that is
                           // seconds (s) imma stick with that
-
+  int AnInt;
+  AnInt = 200;
+  std::cout << AnInt << std::endl;
   // I did not update the repo I was learning about declaring and initialize
   // variables.
   // For now IDK wth to do with this little knowkledge also I learned how to
@@ -29,6 +31,7 @@ int main() {
   //
   // EXCERSISE THAT I DID THAT STICKED IN MY MIND BC I FORGET HOW TO USE \N AND
   // THE >> <<
+  // for some reason comments are not being added in the github repo
   //
   // int main() {
   // Add your code below
